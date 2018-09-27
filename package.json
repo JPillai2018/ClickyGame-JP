@@ -1,0 +1,24 @@
+{
+  "name": "clickygamereact-jp",
+  "version": "0.1.0",
+  "private": true,
+  "engines":{
+    "node": "8.11.1",
+    "npm": "5.6.0"
+  },
+  "homepage": "https://jpillai2018.github.io/clickygamereact-jp/",
+  "dependencies": {
+    "gh-pages": "^2.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  }
+}

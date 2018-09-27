@@ -1,0 +1,15 @@
+.wrapperContainer {
+    width: 80%;
+    padding-top: 10px;
+    padding-left: 5%;;
+    padding-right: 5%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10% 0 10%;
+  
+  }

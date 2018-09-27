@@ -1,0 +1,52 @@
+
+.clickGameApp{
+  background-color: silver;
+  font-family: 'Courier New', Courier, monospace;
+  width: 100%;
+
+
+}
+.clickGameHeader {
+  background-color: #222;
+  color: white;
+  height: 20px;
+  background-image: linear-gradient(rgb(10, 4, 4), rgb(73, 73, 72));
+
+}
+.clickGameHeader:hover {
+  background-color: #222;
+  color:silver;
+}
+.clickGameTitle1 {
+  background-color: #222;
+  color: rgb(230, 99, 11);
+  text-align: center;
+  font-size: 4em;
+  height: 200px;
+  background-image: linear-gradient(rgb(10, 10, 10), rgb(78, 78, 75));
+
+}
+.clickGameTitle2 {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  font-size: medium;
+  height: 10px;
+
+}
+.clickGameRule {
+  background-color: #222;
+  color: rgb(209, 223, 20);
+  text-align: center;
+  font-size: small;
+  height: 20px;
+
+}
+
+.App-title {
+  font-size: 2em;
+}
+
+.App-intro {
+  font-size: large;
+}
